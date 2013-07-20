@@ -1,5 +1,6 @@
 ---
 title: Ray's Recipes
+layout: page
 ---
 
 Ray's Recipes
