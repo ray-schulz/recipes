@@ -11,17 +11,17 @@ sources and adapted to suit my tastes.
 #### Appetizers
 
 #### Breads
-+ [Green Chile Spoonbread](GreenChileSpoonbread.html)
++ [Green Chile Spoonbread](GreenChileSpoonbread)
 
 #### Main Dishes
-+ [Buttermilk Fried Chicken](ButtermilkFriedChicken.html)
-+ [Smoked Chicken](SmokedChicken.html)
++ [Buttermilk Fried Chicken](ButtermilkFriedChicken)
++ [Smoked Chicken]
 
 #### Sauces
-+ [Black Pepper Vinegar Sauce](BlackPepperVinegarSauce.html)
-+ [Honey-Pink Peppercorn Sauce](HoneyPinkPeppercornSauce.html)
++ [Black Pepper Vinegar Sauce](BlackPepperVinegarSauce)
++ [Honey-Pink Peppercorn Sauce](HoneyPinkPeppercornSauce)
 
 #### Sides
 
 #### Tips
-+ [Roast Garlic](RoastGarlic.html)
++ [Roast Garlic]()
