@@ -1,3 +1,7 @@
+---
+title: Ray's Recipes
+---
+
 Ray's Recipes
 =============
 
