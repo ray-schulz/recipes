@@ -1,6 +1,6 @@
 ---
 title: Black Pepper Vinegar Sauce
-layout: Page
+layout: page
 ---
 
 # Black Pepper Vinegar Sauce
