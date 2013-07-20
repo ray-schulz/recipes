@@ -1,5 +1,5 @@
 ---
-title: Ray's Recipes
+title: 
 layout: page
 ---
 
