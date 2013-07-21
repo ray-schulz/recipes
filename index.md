@@ -8,6 +8,7 @@ sources and adapted to suit my tastes.
 
 #### Appetizers
 + [Bacon Cheddar Deviled Eggs](BaconCheddarDeviledEggs)
++ [Potato Skins](PotatoSkins)
 
 #### Breads
 + [Green Chile Spoonbread](GreenChileSpoonbread)
@@ -17,15 +18,19 @@ sources and adapted to suit my tastes.
 + [Broccoli Beef](BroccoliBeef)
 + [Buttermilk Fried Chicken](ButtermilkFriedChicken)
 + [Chicken and Broccoli Noodle Casserole](ChickenAndBroccoliNoodleCasserole)
++ [Meat Loaf](MeatLoaf)
++ [Pot Roast](PotRoast)
 + [Smoked Chicken](SmokedChicken)
 
 #### Sauces
 + [Black Pepper Vinegar Sauce](BlackPepperVinegarSauce)
++ [Chili Con Queso](ChiliConQueso)
++ [Guacamole](Guacamole)
 + [Honey-Pink Peppercorn Sauce](HoneyPinkPeppercornSauce)
 
 #### Sides
-+ [Chili Con Queso](ChiliConQueso)
 + [Creole Potato Salad](CreolePotatoSalad)
++ [Fingerling Potatoes](FingerlingPotatoes)
 
 #### Tips
 + [Roast Garlic](RoastGarlic)
