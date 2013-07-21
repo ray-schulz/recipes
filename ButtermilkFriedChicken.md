@@ -3,8 +3,6 @@ layout: page
 title: Buttermilk Fried Chicken
 ---
 
-# Buttermilk Fried Chicken
-
 + 6 cups buttermilk
 + 2 tbsp hot sauce
 + 2 (3-4 lb) chickens, each cut into 8 pieces

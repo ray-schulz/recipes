@@ -3,8 +3,6 @@ title: Black Pepper Vinegar Sauce
 layout: page
 ---
 
-# Black Pepper Vinegar Sauce
-
 + 1/4 cup + 2 tbsp dijon mustard
 + 3 tbsp honey
 + 1/4 cup rice wine vinegar

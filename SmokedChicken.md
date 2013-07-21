@@ -3,8 +3,6 @@ layout: page
 title: Smoked Chicken
 ---
 
-# Smoked Chicken
-
 + 1 (4lb) whole chicken, excess fat trimmed, rinsed, patted dry
 + 2 tbsp canola oil
 + salt

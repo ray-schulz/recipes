@@ -3,8 +3,6 @@ layout: page
 title: Roast Garlic
 ---
 
-# Roast Garlic
-
 + garlic cloves
 + canola oil
 + salt

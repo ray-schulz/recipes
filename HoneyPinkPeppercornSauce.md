@@ -3,8 +3,6 @@ layout: page
 title: Honey-Pink Peppercorn Sauce
 ---
 
-# Honey-Pink Peppercorn Sauce
-
 + 1 cup honey
 + 2 tsp pink peppercorns, coarsely chopped
 + grated zest of 1 lime

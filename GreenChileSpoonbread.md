@@ -3,8 +3,6 @@ layout: page
 title: Green Chile Spoonbread
 ---
 
-# Green Chile Spoonbread
-
 + 2 tbsp unsalted butter, softened
 + 3/4 cup grated parmesean cheese
 + 3 cup milk
